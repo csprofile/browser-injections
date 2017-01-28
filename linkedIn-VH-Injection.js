@@ -2,7 +2,7 @@
 //Access your account in https://www.linkedin.com/
 //Copy the content from this file to your chrome developer console
 //Press enter
-//If the login screen apear, check the last url to be processed, remove from the list, refresh the page, and start again
+//If the login screen appear, check the last url to be processed, remove from the list, refresh the page, and start again
 
 
 
